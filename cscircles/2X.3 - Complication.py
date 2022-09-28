@@ -1,0 +1,1 @@
+print(A - max(0, A - B))
